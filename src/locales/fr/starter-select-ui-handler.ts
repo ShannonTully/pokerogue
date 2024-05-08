@@ -27,6 +27,7 @@ export const starterSelectUiHandler: SimpleTranslationEntries = {
     "cycleAbility": "E: » Talents",
     "cycleNature": "N: » Natures",
     "cycleVariant": "V: » Variants",
+    "cycleFilter": 'V: » Filter',
     "enablePassive": "Activer Passif",
     "disablePassive": "Désactiver Passif"
 }
